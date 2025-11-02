@@ -1,6 +1,23 @@
 # 유니티 Photon 채팅 서버 구현
 
-제작 기간 : **2022.07 ~ 2022.08** (약 1개월)
+**🔹 진행 기간 :** **2022.07 ~ 2022.08** (약 1개월)
+
+**🔹 팀 구성 :** 개인 프로젝트
+
+## 🔷 개발 목표
+
+본 프로젝트는 유니티의 Photon 프레임워크를 이용하여, 기초적인 채팅 서버를 구현하는 것을 목표로 한다.
+
+## 🔷 사용 기술 스택
+
+| 분류 | 내용 |
+|------|------|
+| **Engine** | Unreal |
+| **Version Control** | Git / GitHub |
+| **Build Target** | Windows (.exe) |
+| **Framework** | Photon |
+
+## 🔷 프로젝트 구현 내용
 
 https://github.com/user-attachments/assets/583c42a7-518d-4694-b950-f5925e841b14
 
